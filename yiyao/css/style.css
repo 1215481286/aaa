@@ -1,0 +1,270 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+img{
+border: none;
+vertical-align: top;	
+}
+body{
+	background-color:#F0F0F0;
+}
+.header{
+	width:15.5rem;
+	height: 1.5rem;
+	background-image:-webkit-linear-gradient(top,rgba(0,0,0,.3),rgba(0,0,0,0));
+	background-image:-o-linear-gradient(top,rgba(0,0,0,.3),rgba(0,0,0,0));
+	background-image:linear-gradient(top,rgba(0,0,0,.3),rgba(0,0,0,0));
+	position: fixed;
+	top: 0;
+	z-index: 9999;
+	padding: 0.375rem  0.25rem;
+}
+.head_left{
+	width: 1.5rem;
+	height: 1.5rem;
+	float: left;
+}
+.head_left a{
+	font-size: 0.9rem;
+	color: #fff;
+	display: block;
+}
+.head_left p{
+	color: #fff;
+	font-size:0.45rem;
+	white-space: normal;
+	display: block;
+}
+.search{
+	width: 10.15rem;
+	height: 0.75rem;
+	background: #fff;
+	border-radius: 3px;
+	float: left;
+	padding: 0.375rem 0.5rem;
+	margin-left: 0.375rem;
+}
+.search input{
+	color: #999999;
+	line-height: 0.75rem;
+	font-size: 0.65rem;
+	border: 0;
+	outline: none;
+	float: left;
+}
+.sea{
+	color: #8C8F94;
+	font-size: 0.75rem;
+	float: right;
+}
+.head_right{
+	width: 1.5rem;
+	height: 1.5rem;
+	float: right;
+	text-align: center;
+}
+.head_right a{
+	color: #fff;
+	font-size: 1.125rem;
+	line-height: 1.125rem;
+}
+.logo{
+	width: 15.5rem;
+	height: 8.2rem;
+	background-color: #fff;
+	margin-top: 0.5rem;
+	margin:0 auto;
+}
+.banner{
+	width: 16.0rem;
+	height: 7.125rem;
+	margin-bottom: 0.5rem;
+}
+
+.logo ul li{
+	display: inline-block;
+	float: left;
+	list-style: none;
+	margin:0 0.5rem;
+	margin-top: 0.6rem;
+}
+.the_low{
+	width: 15.5rem;
+	height: 8.2rem;
+	background-color: #fff;
+    margin:0 auto;
+    margin-top: 0.5rem;
+
+}
+.img1{
+	margin-left: 0.35rem;
+	margin-top: 0.45rem;
+	margin-bottom: 0.55rem;
+	float: left;
+}
+.low1{
+	height: 1.6rem;
+	border-bottom: 1px solid #DADADA;
+	line-height: 1.6rem;
+}
+.low1 span{
+	font-size: 0.5rem;
+	display: block;
+	margin-left: 1.025rem;
+	color: #666666;
+}
+.top1 img{
+	width: 7.75rem;
+    height: 8.575rem;
+	float: left;
+}
+.top2 img{
+	width: 7.75rem;
+	height:4.2875rem;
+	float: right;
+}
+.center_1 img{
+	width: 15.5rem;
+	height: 2.5rem;
+	margin: 0.5rem auto;
+	margin-left: 0.25rem;
+}
+.thanks{
+	width: 15.5rem;
+	height: 8.2rem;
+	background-color: #fff;
+    margin:0 auto;
+    margin-top: 0.5rem;
+}
+.thanks1{
+	height: 1.6rem;
+	border: 1px solid #DADADA;
+line-height: 1.6rem;
+}
+.img2{
+	margin-left: 0.35rem;
+	margin-top: 0.45rem;
+	margin-bottom: 0.55rem;
+	float: left;
+}
+.thanks span{
+	font-size: 0.5rem;
+	display: block;
+	margin-left: 1.025rem;
+	color: #666666;
+}
+.center2{
+	width: 7.75rem;
+	float: left;
+}
+.center2 img{
+    width: 7.75rem;
+	height:4.2875rem;
+}
+.center3 img{
+	width: 7.75rem;
+    height: 8.575rem;
+    float: right;
+}
+.bottom1 img{
+	width: 15.5rem;
+	height: 2.5rem;
+	margin: 0.5rem auto;
+	margin-left: 0.25rem;
+}
+.mei{
+width: 15.5rem;
+	height: 8.2rem;
+	background-color: #fff;
+    margin:0 auto;
+    margin-top: 0.5rem;
+}
+.mei1{
+	height: 1.6rem;
+	border: 1px solid #DADADA;
+line-height: 1.6rem;
+}
+.img3{
+	margin-left: 0.35rem;
+	margin-top: 0.45rem;
+	margin-bottom: 0.55rem;
+	float: left;
+}
+.mei1 span{
+	font-size: 0.5rem;
+	display: block;
+	margin-left: 1.025rem;
+	color: #666666;
+}
+.bottom2 img{
+	width: 7.75rem;
+    height: 8.575rem;
+	float: left;
+}
+.bottom3 img{
+	width: 7.75rem;
+	height:4.2875rem;
+	float: right;
+}
+.login{
+	width: 16.0rem;
+	height: 1.1rem;
+	background-color: #E8E8E8;
+	margin: 0 auto;
+}
+.login ul li{
+	height: 1.05rem;
+	line-height: 1.05rem;
+	list-style: none;
+	float: left;
+	font-size: 0.4rem;
+	color: #2A8ADF;
+	margin-left: 0.325rem;
+}
+.login ul .fanhui{
+	list-style: none;
+	float: right;
+	font-size: 0.4reml
+	color:#2A8ADF;
+	margin-right: 1.1rem;
+}
+.footer_top{
+	margin-top:2.2rem;
+}
+.footer{
+	width: 16rem;
+	height: 3rem;
+	background-color: #1771D2;
+}
+.footer p {
+	color: #fff;
+	font-size: 0.3rem;
+	text-align:center;
+	line-height: 1.075rem;
+}
+.footer p a{
+	padding: 0.425rem;
+}
+.footer_center p{
+	background-color: #2A8ADE;
+	font-size: 0.4rem;
+	text-align: center;
+	line-height: 1.075rem;
+}
+.footer_center p a{
+	color: #B1D5EC;
+	padding: 1.025rem;
+}
+.footer_bottom p{
+text-align: center;
+font-size: 0.4rem;
+line-height: 1.075rem;
+background-color: #1771D2;
+}
+
+
+
+
+
